@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning PHP and Databases
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me through discord: FIMO046 (username)
-- 😄 Pronouns: he/him  
 - ⚡ Fun fact: coding is fun
 
 <!---
